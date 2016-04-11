@@ -17,7 +17,7 @@
 
 **克隆repository**
 ```
-git clone https://git.oschina.net/mahavira/react-kickstart
+git clone https://github.com/mahavira/webpack-react-kickstart
 ```
 
 **安装**
