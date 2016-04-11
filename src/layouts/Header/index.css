@@ -1,0 +1,23 @@
+.normal {
+  padding: 15px;
+  box-sizing: border-box;
+  background: #FFF;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.logo {
+  font-family: 'Roboto Mono', 'Menlo', monospace;
+  margin: 0;
+  background: #00bcd4;
+  color: #FFF;
+  text-align: center;
+  padding: 8px 15px 0;
+}
+
+.search {
+  margin-left: 15px;
+  flex: 1;
+}
